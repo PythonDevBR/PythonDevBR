@@ -1,7 +1,7 @@
 # Gustavo Rosas
 
 ## Sobre Mim
-Bem-vindo ao meu perfil do GitHub! Eu me chamo **Gustavo Rosas**, sou um programador apaixonado com experiência em diversas tecnologias. Adoro explorar novas linguagens de programação e frameworks, e estou sempre animado para trabalhar em projetos desafiadores.
+Bem-vindo ao meu perfil do GitHub! Eu me chamo **Gustavo Rosas**, sou um desenvolvedor multidisciplinar com experiência em diversas tecnologias. Adoro explorar novas linguagens de programação e frameworks, e estou sempre animado para trabalhar em projetos desafiadores.
 
 ## Habilidades atuais em programação
 
