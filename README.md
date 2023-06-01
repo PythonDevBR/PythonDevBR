@@ -16,11 +16,16 @@ Bem-vindo ao meu perfil do GitHub! Eu me chamo **Gustavo Rosas**, sou um desenvo
 - [![PySimpleGUI](https://img.shields.io/badge/pysimplegui-black?style=for-the-badge&logo=python)](https://github.com/seu-usuario-github)
 - [![CustomTkinter](https://img.shields.io/badge/customtkinter-black?style=for-the-badge&logo=python)](https://github.com/seu-usuario-github)
 
-### Outras Habilidades
+### Consumo de API's (criação, em breve)
 - [![|REST APIs](https://img.shields.io/badge/rest_apis-black?style=for-the-badge&logo=api)](https://github.com/seu-usuario-github)
-- [![Web Design](https://img.shields.io/badge/web_design-black?style=for-the-badge&logo=web)](https://github.com/seu-usuario-github)
+
+### Versionamento de software
 - [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/seu-usuario-github)
 - [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/seu-usuario-github)
+
+### Outras Habilidades
+- [![Web Design](https://img.shields.io/badge/web_design-black?style=for-the-badge&logo=web)](https://github.com/seu-usuario-github)
+- [![Design Gráfico](https://img.shields.io/badge/design_gr%C3%A1fico-black?style=for-the-badge&logo=adobe)](https://github.com/seu-usuario-github)
 
 ## Projetos (seção em construção)
 Aqui estão 2 projetos pessoais que desenvolvi/ estou desenvolvendo atualmente:
