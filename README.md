@@ -1,16 +1,38 @@
-### Hi there 👋
+# Gustavo Rosas
 
-<!--
-**PythonDevBR/PythonDevBR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+Bem-vindo ao meu perfil do GitHub! Eu me chamo **Gustavo Rosas**, sou um programador apaixonado com experiência em diversas tecnologias. Adoro explorar novas linguagens de programação e frameworks, e estou sempre animado para trabalhar em projetos desafiadores.
 
-Here are some ideas to get you started:
+## Habilidades atuais em programação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Linguagens
+- [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/PythonDevBR)
+- [![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=csharp)](https://github.com/PythonDevBR)
+- [![Flutter](https://img.shields.io/badge/flutter-black?style=for-the-badge&logo=flutter)](https://github.com/seu-usuario-github)
+- [![Dart](https://img.shields.io/badge/dart-black?style=for-the-badge&logo=dart)](https://github.com/seu-usuario-github)
+
+
+### Frameworks para criação de Interfaces Gráficas (GUI)
+- [![PySimpleGUI](https://img.shields.io/badge/pysimplegui-black?style=for-the-badge&logo=python)](https://github.com/seu-usuario-github)
+- [![CustomTkinter](https://img.shields.io/badge/customtkinter-black?style=for-the-badge&logo=python)](https://github.com/seu-usuario-github)
+
+### Outras Habilidades
+- [![|REST APIs](https://img.shields.io/badge/rest_apis-black?style=for-the-badge&logo=api)](https://github.com/seu-usuario-github)
+- [![Web Design](https://img.shields.io/badge/web_design-black?style=for-the-badge&logo=web)](https://github.com/seu-usuario-github)
+- [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/seu-usuario-github)
+- [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/seu-usuario-github)
+
+## Projetos (seção em construção)
+Aqui estão 2 projetos pessoais que desenvolvi/ estou desenvolvendo atualmente:
+
+1. DocBuilder: 
+   O [DocBuilder](https://github.com/PythonDevBR/DocBuilder#docbuilder---app-de-preenchimento-autom%C3%A1tico-de-documentos) é um aplicativo desktop simples, porém, poderoso para arquitetos e engenheiros, feito em python e conectado com algumas APIs (Consultar CEP, Consultar CNPJ, etc), que automatizam todo o processo de preenchimento dos documentos. (em andamento)
+
+2. Journalist Assistant: O [Journalist Assistant](https://github.com/PythonDevBR/DocBuilder#docbuilder---app-de-preenchimento-autom%C3%A1tico-de-documentos) é um aplicativo desktop simples, porém, poderoso para pesquisadores audio-visuais que integra as API's do Google Sheets e Google Drive e tem como principal objetivo _automatizar o processo de extrair dados do sheets_ (1), _pesquisar no drive_ (2), _gerar um link de compartilhamento publico_ (3) e _atualizar a célula (com nome correspondente) do Google Sheets com o hyperlink do arquivo localizado no Google Drive_ (4).
+
+***OBS:*** Ainda estou organizando e construindo esta seção. Volte, em breve, para conhecer meus outros projetos.
+
+## Entre em Contato
+Sinta-se à vontade para entrar em contato comigo se tiver alguma dúvida ou oportunidade de colaboração. Você pode me encontrar no [email](mailto:python.dev.br@gmail.com) ou [WhatsApp](https://api.whatsapp.com/send?phone=11966593807).
+
+Vamos nos conectar e criar coisas incríveis juntos!
