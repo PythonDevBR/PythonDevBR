@@ -36,3 +36,6 @@ Aqui estão 2 projetos pessoais que desenvolvi/ estou desenvolvendo atualmente:
 Sinta-se à vontade para entrar em contato comigo se tiver alguma dúvida ou oportunidade de colaboração. Você pode me encontrar no [email](mailto:python.dev.br@gmail.com) ou [WhatsApp](https://api.whatsapp.com/send?phone=11966593807).
 
 Vamos nos conectar e criar coisas incríveis juntos!
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDEwMjhhN2JhZDM2YThhOGNjYzdjMThkZGY1ZGQyZjhlYjRmNWM0ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/lnaoFgGrDHnivdu5Bc/giphy.gif" width="200px"></h1>
+
