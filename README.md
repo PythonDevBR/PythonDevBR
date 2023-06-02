@@ -23,6 +23,12 @@ Bem-vindo ao meu perfil do GitHub! Eu me chamo **Gustavo Rosas**, sou um desenvo
 - [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/PythonDevBR)
 - [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/PythonDevBR)
 
+### Configurações do usuário
+- [![USER SETTINGS](https://img.shields.io/badge/user_settings-black?style=for-the-badge&logo=python)](https://github.com/PythonDevBR)
+- [![JSON](https://img.shields.io/badge/JSON-black?style=for-the-badge&logo=json)](https://github.com/PythonDevBR)
+
+
+
 ### Outras Habilidades
 - [![Web Design](https://img.shields.io/badge/web_design-black?style=for-the-badge&logo=web)](https://github.com/PythonDevBR)
 - [![Design Gráfico](https://img.shields.io/badge/design_gr%C3%A1fico-black?style=for-the-badge&logo=adobe)](https://github.com/PythonDevBR)
