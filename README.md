@@ -8,24 +8,24 @@ Bem-vindo ao meu perfil do GitHub! Eu me chamo **Gustavo Rosas**, sou um desenvo
 ### Linguagens
 - [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/PythonDevBR)
 - [![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=csharp)](https://github.com/PythonDevBR)
-- [![Flutter](https://img.shields.io/badge/flutter-black?style=for-the-badge&logo=flutter)](https://github.com/seu-usuario-github)
-- [![Dart](https://img.shields.io/badge/dart-black?style=for-the-badge&logo=dart)](https://github.com/seu-usuario-github)
+- [![Flutter](https://img.shields.io/badge/flutter-black?style=for-the-badge&logo=flutter)](https://github.com/PythonDevBR)
+- [![Dart](https://img.shields.io/badge/dart-black?style=for-the-badge&logo=dart)](https://github.com/PythonDevBR)
 
 
 ### Frameworks para criação de Interfaces Gráficas (GUI)
-- [![PySimpleGUI](https://img.shields.io/badge/pysimplegui-black?style=for-the-badge&logo=python)](https://github.com/seu-usuario-github)
-- [![CustomTkinter](https://img.shields.io/badge/customtkinter-black?style=for-the-badge&logo=python)](https://github.com/seu-usuario-github)
+- [![PySimpleGUI](https://img.shields.io/badge/pysimplegui-black?style=for-the-badge&logo=python)](https://github.com/PythonDevBR)
+- [![CustomTkinter](https://img.shields.io/badge/customtkinter-black?style=for-the-badge&logo=python)](https://github.com/PythonDevBR)
 
 ### Consumo de API's (criação, em breve)
-- [![|REST APIs](https://img.shields.io/badge/rest_apis-black?style=for-the-badge&logo=api)](https://github.com/seu-usuario-github)
+- [![|REST APIs](https://img.shields.io/badge/rest_apis-black?style=for-the-badge&logo=api)](https://github.com/PythonDevBR)
 
 ### Versionamento de software
-- [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/seu-usuario-github)
-- [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/seu-usuario-github)
+- [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/PythonDevBR)
+- [![GitHub](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/PythonDevBR)
 
 ### Outras Habilidades
-- [![Web Design](https://img.shields.io/badge/web_design-black?style=for-the-badge&logo=web)](https://github.com/seu-usuario-github)
-- [![Design Gráfico](https://img.shields.io/badge/design_gr%C3%A1fico-black?style=for-the-badge&logo=adobe)](https://github.com/seu-usuario-github)
+- [![Web Design](https://img.shields.io/badge/web_design-black?style=for-the-badge&logo=web)](https://github.com/PythonDevBR)
+- [![Design Gráfico](https://img.shields.io/badge/design_gr%C3%A1fico-black?style=for-the-badge&logo=adobe)](https://github.com/PythonDevBR)
 
 ## Projetos (seção em construção)
 Aqui estão 2 projetos pessoais que desenvolvi/ estou desenvolvendo atualmente:
