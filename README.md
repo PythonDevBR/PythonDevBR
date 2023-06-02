@@ -26,6 +26,12 @@ Bem-vindo ao meu perfil do GitHub! Eu me chamo **Gustavo Rosas**, sou um desenvo
 ### Outras Habilidades
 - [![Web Design](https://img.shields.io/badge/web_design-black?style=for-the-badge&logo=web)](https://github.com/PythonDevBR)
 - [![Design Gráfico](https://img.shields.io/badge/design_gr%C3%A1fico-black?style=for-the-badge&logo=adobe)](https://github.com/PythonDevBR)
+- [![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity)](https://github.com/PythonDevBR)
+- [![Blender](https://img.shields.io/badge/Blender-black?style=for-the-badge&logo=blender)](https://github.com/PythonDevBR)
+- [![SketchUp](https://img.shields.io/badge/SketchUp-black?style=for-the-badge&logo=sketchup)](https://github.com/PythonDevBR)
+
+
+
 
 ## Projetos (seção em construção)
 Aqui estão 2 projetos pessoais que desenvolvi/ estou desenvolvendo atualmente:
