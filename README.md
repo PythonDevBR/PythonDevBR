@@ -39,7 +39,7 @@ Aqui estão 2 projetos pessoais que desenvolvi/ estou desenvolvendo atualmente:
 1. DocBuilder: 
    O [DocBuilder](https://github.com/PythonDevBR/DocBuilder#docbuilder---app-de-preenchimento-autom%C3%A1tico-de-documentos) é um aplicativo desktop simples, porém, poderoso para arquitetos e engenheiros, feito em python e conectado com algumas APIs (Consultar CEP, Consultar CNPJ, etc), que automatizam todo o processo de preenchimento dos documentos. (em andamento)
 
-2. Journalist Assistant: O [Journalist Assistant](https://github.com/PythonDevBR/DocBuilder#docbuilder---app-de-preenchimento-autom%C3%A1tico-de-documentos) é um aplicativo desktop simples, porém, poderoso para pesquisadores audio-visuais que integra as API's do Google Sheets e Google Drive e tem como principal objetivo _automatizar o processo de extrair dados do sheets_ (1), _pesquisar no drive_ (2), _gerar um link de compartilhamento publico_ (3) e _atualizar a célula (com nome correspondente) do Google Sheets com o hyperlink do arquivo localizado no Google Drive_ (4).
+2. Journalist Assistant: O [Journalist Assistant](https://github.com/PythonDevBR/DocBuilder#docbuilder---app-de-preenchimento-autom%C3%A1tico-de-documentos) é um aplicativo desktop simples porém poderoso, que integra as API's do Google Sheets e Google Drive e tem como principal objetivo _automatizar o processo de extrair dados do sheets_ (1), _pesquisar no drive_ (2), _gerar um link de compartilhamento publico_ (3) e _atualizar a célula (com nome correspondente) do Google Sheets com o hyperlink do arquivo localizado no Google Drive_ (4).
 
 ***OBS:*** Ainda estou organizando e construindo esta seção. Volte, em breve, para conhecer meus outros projetos.
 
