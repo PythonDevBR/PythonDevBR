@@ -50,4 +50,6 @@ Sinta-se à vontade para entrar em contato comigo se tiver alguma dúvida ou opo
 
 Vamos nos conectar e criar coisas incríveis juntos!
 
-![gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDEwMjhhN2JhZDM2YThhOGNjYzdjMThkZGY1ZGQyZjhlYjRmNWM0ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/lnaoFgGrDHnivdu5Bc/giphy.gif)
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDEwMjhhN2JhZDM2YThhOGNjYzdjMThkZGY1ZGQyZjhlYjRmNWM0ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/lnaoFgGrDHnivdu5Bc/giphy.gif" alt="gif" width="230" />
+
+
