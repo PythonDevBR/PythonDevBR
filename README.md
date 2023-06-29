@@ -1,7 +1,6 @@
-# GustavoRosas-Dev
+# Saudações, visitante! <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="50" height="50">
 
-## Sobre Mim
-Bem-vindo ao meu perfil do GitHub! Eu me chamo **Gustavo Rosas**, sou um desenvolvedor multidisciplinar com experiência em diversas tecnologias. Adoro explorar novas linguagens de programação e frameworks, e estou sempre animado para trabalhar em projetos desafiadores.
+Eu me chamo **Gustavo Rosas**, sou um desenvolvedor multidisciplinar com experiência em diversas tecnologias. Adoro explorar novas linguagens de programação e frameworks, e estou sempre animado para trabalhar em projetos desafiadores.
 
 ## Habilidades atuais em programação
 
