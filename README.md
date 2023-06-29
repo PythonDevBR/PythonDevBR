@@ -5,34 +5,22 @@ Eu me chamo **Gustavo Rosas**, sou um desenvolvedor multidisciplinar com experi�
 ## Habilidades atuais em programação
 
 ### Linguagens
-- ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
-- ![C#](https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=csharp&logoColor=61DAFB)
-- ![Flutter](https://img.shields.io/badge/Flutter-%2350BFFA?style=for-the-badge&logo=flutter&logoColor=FFD43B)
-- ![Dart](https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=61DAFB)
-- ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=FFD43B)
-- ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=FFD43B)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330)
-- ![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=323330)
+![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=FFD43B) ![C#](https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=csharp&logoColor=61DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2350BFFA?style=for-the-badge&logo=flutter&logoColor=FFD43B) ![Dart](https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=61DAFB) ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=FFD43B) ![CSS](https://img.shields.io/badge/CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=FFD43B) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330) ![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=323330)
 
 ### Frameworks para criação de Interfaces Gráficas (GUI)
-- ![PySimpleGUI](https://img.shields.io/badge/PySimpleGUI-%236DB33F?style=for-the-badge&logo=python&logoColor=FFD43B)
-- ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-%239B4F96?style=for-the-badge&logo=python&logoColor=323330)
+![PySimpleGUI](https://img.shields.io/badge/PySimpleGUI-%236DB33F?style=for-the-badge&logo=python&logoColor=FFD43B) ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-%239B4F96?style=for-the-badge&logo=python&logoColor=323330)
 
 ### Consumo de API's (criação, em breve)
 - ![REST APIs](https://img.shields.io/badge/REST%20APIs-%232669B5?style=for-the-badge&logo=api&logoColor=FFD43B)
 
 ### Versionamento de software
-- ![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=FFD43B)
-- ![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=FFD43B)
+![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=FFD43B) ![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=FFD43B)
 
 ### Configurações do usuário
-- ![USER SETTINGS](https://img.shields.io/badge/User%20Settings-%238DD6F9?style=for-the-badge&logo=python&logoColor=323330)
-- ![JSON](https://img.shields.io/badge/JSON-%23000000?style=for-the-badge&logo=json&logoColor=FFD43B)
+![USER SETTINGS](https://img.shields.io/badge/User%20Settings-%238DD6F9?style=for-the-badge&logo=python&logoColor=323330) ![JSON](https://img.shields.io/badge/JSON-%23000000?style=for-the-badge&logo=json&logoColor=FFD43B)
 
 ### Outras Habilidades
-- ![Web Design](https://img.shields.io/badge/Web%20Design-%23404d59?style=for-the-badge&logo=web&logoColor=FF4088)
-- ![Design Gráfico](https://img.shields.io/badge/Design%20Gr%C3%A1fico-%23000000?style=for-the-badge&logo=adobe&logoColor=FF4088)
-- ![Unity](https://img.shields.io/badge/Unity-%23000000?style=for-the-badge&logo=unity&logoColor=FF4088)
+![Web Design](https://img.shields.io/badge/Web%20Design-%23404d59?style=for-the-badge&logo=web&logoColor=FF4088) ![Design Gráfico](https://img.shields.io/badge/Design%20Gr%C3%A1fico-%23000000?style=for-the-badge&logo=adobe&logoColor=FF4088) ![Unity](https://img.shields.io/badge/Unity-%23000000?style=for-the-badge&logo=unity&logoColor=FF4088)
 
 ## Projetos (seção em construção)
 Aqui estão 2 projetos pessoais que desenvolvi/ estou desenvolvendo atualmente:
